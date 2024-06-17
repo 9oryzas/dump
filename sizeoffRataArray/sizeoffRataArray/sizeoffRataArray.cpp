@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
     // membuat array kosong
-    int i, p;
+    int i, p,sum;
     int nilai[] = { 23,45,21,45,11,99 };
     float rata;
     // mengisi array
@@ -29,7 +29,7 @@ int main() {
     cout << "\npanjang data :" << p;
 
     for (int i = 0; i < p; i++) {
-        int sum += nilai[i];
+        sum += nilai[i];
     }
     cout << "\nJumlah :" << sum;
     rata = (float)sum / (float)p;
