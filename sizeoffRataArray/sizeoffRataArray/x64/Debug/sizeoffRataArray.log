@@ -1,0 +1,5 @@
+﻿  sizeoffRataArray.cpp
+D:\CollYeahh\Semester 2\Train\sizeoffRataArray\sizeoffRataArray\sizeoffRataArray.cpp(38,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CollYeahh\Semester 2\Train\sizeoffRataArray\sizeoffRataArray\sizeoffRataArray.cpp(38,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CollYeahh\Semester 2\Train\sizeoffRataArray\sizeoffRataArray\sizeoffRataArray.cpp(14,9): warning C4101: 'i': unreferenced local variable
+D:\CollYeahh\Semester 2\Train\sizeoffRataArray\sizeoffRataArray\sizeoffRataArray.cpp(32,1): error C4700: uninitialized local variable 'sum' used
