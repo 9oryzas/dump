@@ -3,10 +3,10 @@
 
 #include <iostream>
 using namespace std;
-// int k,sum,p;
-// void rata(){
-//     k=sum/p;  
-// }
+
+void ratav(float a,float b){
+   float k=a/b;  
+}
 
 
 int main() {
@@ -35,7 +35,7 @@ int main() {
     rata = (float)sum / (float)p;
     cout << "\nMean :" << rata;
 
-    // rata();
+    ratav(sum,p);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
