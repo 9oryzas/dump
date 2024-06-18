@@ -6,6 +6,7 @@ using namespace std;
 
 void ratav(float a,float b){
    float k=a/b;  
+   cout<<"\nMean 2 :"<<k;
 }
 
 
