@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CollYeahh\\Semester 2\\Train\\tipeEnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D11B5B-F90C-40C6-8EF9-CAFB9B6C3AB4}|tipeEnum\\tipeEnum.vcxproj|D:\\CollYeahh\\Semester 2\\Train\\tipeEnum\\tipeEnum\\tipeEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2D11B5B-F90C-40C6-8EF9-CAFB9B6C3AB4}|tipeEnum\\tipeEnum.vcxproj|solutionrelative:tipeEnum\\tipeEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tipeEnum.cpp",
+              "DocumentMoniker": "D:\\CollYeahh\\Semester 2\\Train\\tipeEnum\\tipeEnum\\tipeEnum.cpp",
+              "RelativeDocumentMoniker": "tipeEnum\\tipeEnum.cpp",
+              "ToolTip": "D:\\CollYeahh\\Semester 2\\Train\\tipeEnum\\tipeEnum\\tipeEnum.cpp",
+              "RelativeToolTip": "tipeEnum\\tipeEnum.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T07:46:30.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
